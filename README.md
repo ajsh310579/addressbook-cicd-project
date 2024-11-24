@@ -8,6 +8,7 @@ second attemptsecond
 third time lucky
 fourth time practice
 fifth time practice again
+parametrization test
 ==================== d
 ddooiouo
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
